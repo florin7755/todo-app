@@ -1,0 +1,6 @@
+clean bag
+new order
+show the mountain
+go to school
+drink some water
+close the window
